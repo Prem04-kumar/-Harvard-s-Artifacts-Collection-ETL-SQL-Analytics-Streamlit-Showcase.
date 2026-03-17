@@ -268,5 +268,3 @@ with tab3:
 
         except Exception as e:
             st.error(f"Error: {e}")
-
-    
